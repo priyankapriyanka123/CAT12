@@ -25,7 +25,7 @@ Python (version X.X)
 [Required Python packages and libraries (list them here, e.g., NumPy, Pandas, Scikit-Learn, etc.)]
 Installation
 Clone the repository to your local machine:
-git clone https://github.com/rajalakshmi3414/earthquake-prediction.git
+git clone https://github.com/priyanka2721/earthquake-prediction.git
 Navigate to the project directory:
 bash
 
@@ -110,7 +110,7 @@ Before running the code, make sure you have the following dependencies and softw
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/rajalakshmi3414/earthquake-prediction.git
+git clone https://github.com/priyanka2721/earthquake-prediction.git
 Navigate to the project directory:
 bash
 
